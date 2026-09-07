@@ -12,7 +12,7 @@
 4. A THING I FOUND INTERESTING ABOUT GIT:
    * The way git helps multiple people work together on the same thing caught my interest.
 5. A GIT COMMAND WHICH I FOUND USEFUL:
-   * __Git status__ helps us check what has changed.
+    __Git status__ helps us check what has changed.
   
 #What I Learned:
 I am learning how Git and Github work together.
